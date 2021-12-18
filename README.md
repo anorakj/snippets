@@ -1,1 +1,1 @@
-# snipplets
+# snippets
